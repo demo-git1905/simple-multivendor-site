@@ -30,4 +30,4 @@ RUN pip install --upgrade pip \
 EXPOSE 8000
 
 # Run your Python app
-CMD ["python", "apps.py"]
+CMD ["python", "manage.py"]
